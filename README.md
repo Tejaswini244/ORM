@@ -53,4 +53,4 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM hass been executed successfully.
